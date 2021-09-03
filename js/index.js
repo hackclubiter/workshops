@@ -14,9 +14,9 @@ function workshopDisplay(workshop) {
         `;
     }
   
-  document.getElementById("upcoming").innerHTML = `
-  ${workshopData.map(workshopDisplay).join("")}
-  <p>There are ${workshopDisplay.length} workshops.</p>
+    document.getElementById("upcoming").innerHTML = `
+    ${workshopData.map(workshopDisplay).join("")}
+    <p>There are ${workshopData.length} upcoming workshops.</p>
 `;
 
 //Past Workshops
