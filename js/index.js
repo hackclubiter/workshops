@@ -3,9 +3,10 @@ function workshopDisplay(workshop) {
         <li>
             <div class="ws-box" style="background-image: url('${workshop.image}');">
             <a href="${workshop.link}" class="wslink">
-                <div class="ws-info">
+                <div class="ws-info-present">
                     <h3>${workshop.workshopName}</h3>
                     <p>${workshop.about}</p>
+                    <h4>📅 ${workshop.date} | ⏲️ ${workshop.time} </h4>
                 </div>
             </a>
             </div>
@@ -15,7 +16,7 @@ function workshopDisplay(workshop) {
   
   document.getElementById("upcoming").innerHTML = `
   ${workshopData.map(workshopDisplay).join("")}
-
+  <p>There are ${workshopDisplay.length} workshops.</p>
 `;
 
 //Past Workshops

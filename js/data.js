@@ -5,6 +5,30 @@ const workshopData = [
     //     link: "https://iter.hackclub.com/workshops", //enter the link of the workshop
     //     image: "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d29ya3Nob3B8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60", //give the image (make sure to host it before adding)
     // },
+    {
+        workshopName: "2021-22 Session Induction",
+        about: "Induction program for the 2022 session of HCI.", //About the workshop in about 50 words
+        link: "#", //enter the link of the workshop
+        image: "https://images.unsplash.com/photo-1577113398331-d843d3341a63?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80", //give the image (make sure to host it before adding)
+        date: "10 Sep 2021", //give the event's date
+        time: "7 PM Onwards", //give the event's time
+    },
+    {
+        workshopName: "Getting Started with Arduino",
+        about: "Build your first project with Arduino Uno and we will help in Hardware.", //About the workshop in about 50 words
+        link: "#", //enter the link of the workshop
+        image: "https://images.unsplash.com/photo-1559819614-81fea9efd090?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80", //give the image (make sure to host it before adding)
+        date: "15 Sep 2021", //give the event's date
+        time: "7 PM Onwards", //give the event's time
+    },
+    {
+        workshopName: "Build your Wikipedia Summarizer",
+        about: "Make your Wikipedia Summarizer GUI using Python.", //About the workshop in about 50 words
+        link: "#", //enter the link of the workshop
+        image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1352&q=80", //give the image (make sure to host it before adding)
+        date: "25 Sep 2021", //give the event's date
+        time: "7 PM Onwards", //give the event's time
+    },
 ];
 
 //Past
@@ -26,7 +50,7 @@ const pastWorkshopData = [
         workshopName: "Decode the Programming with Shubham Sonal",
         about: "How to get started with programming!", //About the workshop in about 50 words
         link: "https://youtu.be/nHzmwoStZKU", //enter the link of the workshop
-        image: "https://i.ytimg.com/an_webp/nHzmwoStZKU/mqdefault_6s.webp?du=3000&sqp=COith4kG&rs=AOn4CLD_twEQNf26fgNMzaS0YHM3uKF78Q", //give the image (make sure to host it before adding)
+        image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1352&q=80", //give the image (make sure to host it before adding)
     },
     {
         workshopName: "Hack the Web w/ Harsh Bajpai",
@@ -56,6 +80,6 @@ const pastWorkshopData = [
         workshopName: "What is IoT?",
         about: "Get started with IoT", //About the workshop in about 50 words
         link: "https://youtu.be/mNMFa6tL5PE", //enter the link of the workshop
-        image: "https://i.ytimg.com/vi/mNMFa6tL5PE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnb0kFHtpwnoLLeiGk1zphWXM4kg", //give the image (make sure to host it before adding)
+        image: "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80", //give the image (make sure to host it before adding)
     },
 ];
