@@ -8,7 +8,7 @@ const workshopData = [
     {
         workshopName: "2021-22 Session Induction",
         about: "Induction program for the 2022 session of HCI.", //About the workshop in about 50 words
-        link: "#", //enter the link of the workshop
+        link: "https://lu.ma/b0u7uhqm", //enter the link of the workshop
         image: "https://images.unsplash.com/photo-1577113398331-d843d3341a63?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80", //give the image (make sure to host it before adding)
         date: "10 Sep 2021", //give the event's date
         time: "7 PM Onwards", //give the event's time
