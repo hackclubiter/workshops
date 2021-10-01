@@ -6,6 +6,19 @@ const workshopData = [
     //     image: "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d29ya3Nob3B8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60", //give the image (make sure to host it before adding)
     // },
     {
+        workshopName: "Hack the October Kick Off",
+        about: "Opening Ceremony of Hack the October", //About the workshop in about 50 words
+        link: "https://www.youtube.com/watch?v=QPssaIng13U", //enter the link of the workshop
+        image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHdvcmtzaG9wfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60", //give the image (make sure to host it before adding)
+        date: "01 Oct 2021", //give the event's date
+        time: "7 PM Onwards", //give the event's time
+    },
+];
+
+//Past
+
+const pastWorkshopData = [
+    {
         workshopName: "2021-22 Session Induction",
         about: "Induction program for the 2022 session of HCI.", //About the workshop in about 50 words
         link: "https://lu.ma/b0u7uhqm", //enter the link of the workshop
@@ -29,11 +42,6 @@ const workshopData = [
         date: "25 Sep 2021", //give the event's date
         time: "7 PM Onwards", //give the event's time
     },
-];
-
-//Past
-
-const pastWorkshopData = [
     {
         workshopName: "Python Development",
         about: "Learn the basics of Python in 7 Days", //About the workshop in about 50 words
