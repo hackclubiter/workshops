@@ -8,7 +8,7 @@ const workshopData = [
     {
         workshopName: "AMA on Flutter and Open-Source",
         about: "AMA session with Himanshu Sharma", //About the workshop in about 50 words
-        link: "#", //enter the link of the workshop
+        link: "https://youtu.be/YH3bLcB0Hls", //enter the link of the workshop
         image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHdvcmtzaG9wfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60", //give the image (make sure to host it before adding)
         date: "17 Oct 2021", //give the event's date
         time: "7 PM Onwards", //give the event's time
@@ -16,7 +16,7 @@ const workshopData = [
     {
         workshopName: "AMA on GitHub Externship",
         about: "AMA session with Saswat Mishra", //About the workshop in about 50 words
-        link: "#", //enter the link of the workshop
+        link: "https://youtu.be/Jue9XlKa7VM", //enter the link of the workshop
         image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHdvcmtzaG9wfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60", //give the image (make sure to host it before adding)
         date: "18 Oct 2021", //give the event's date
         time: "7 PM Onwards", //give the event's time
