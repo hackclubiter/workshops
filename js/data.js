@@ -7,7 +7,13 @@ const workshopData = [
     // },
     
     
-    {
+
+];
+
+//Past
+
+const pastWorkshopData = [
+       {
         workshopName: "AMA on Web-Dev and Open-Source",
         about: "AMA session with Souvik Kar", //About the workshop in about 50 words
         link: "#", //enter the link of the workshop
@@ -15,11 +21,6 @@ const workshopData = [
         date: "24 Oct 2021", //give the event's date
         time: "7 PM Onwards", //give the event's time
     },
-];
-
-//Past
-
-const pastWorkshopData = [
     {
         workshopName: "AMA on GitHub Externship",
         about: "AMA session with Saswat Mishra", //About the workshop in about 50 words
